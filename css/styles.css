@@ -1,0 +1,84 @@
+.introslide h2, .introslide h4 {
+    opacity: 1 !important;
+    font-family: "museo-sans",sans-serif !important;
+}
+
+.introslide h2 {
+    letter-spacing: 15px;
+    font-size: 102px;
+    margin: 10px 0;
+    color: #FFB224;
+}
+.introslide h4 {
+    font-size: 52px;
+    letter-spacing: 10px;
+    width: 40%;
+    margin: 0 auto;
+
+}
+.introslide .fader {
+    position: relative;
+}
+.introslide .fader:after {
+  content: " ";
+  z-index: 10;
+  display: block;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+.presentation-button {
+    outline: 0;
+    border: 0;
+    padding: 7px 20px;
+    font-size: 20px;
+    color: #000;
+    background: #FFB224;
+    cursor: pointer;
+}
+
+.left {
+    text-align: left !important;
+}
+
+section[data-state="search"] {
+    text-align: left;
+    top: 0;
+}
+
+section[data-state="search"] > * {
+    font-size: 16px;
+}
+
+#searchresults_results {
+    overflow: auto;
+    display: flex;
+    flex-wrap: wrap;
+    max-height: 500px;
+}
+#searchresults_results > .search-image {
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: auto;
+    max-width: 60px;
+    max-height: 80px;
+    flex: 1;
+}
+#searchresults_results > .search-image.big {
+    max-width: 150px;
+    max-height: 150px;
+}
+#searchinput_associationsList * {
+    color: #333 !important;
+}
+#searchinput_associations {
+    background-color: #fff !important;
+    color: #eee;
+}
+#searchinput_associationsList {
+    width: 100%;
+}

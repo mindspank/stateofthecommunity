@@ -1,0 +1,104 @@
+[
+    {
+        "filename": "holla.html",
+        "attr": {
+            "class": "center"
+        }
+    },
+    {
+        "filename": "me.html",
+        "attr": {
+            "class": "center"
+        }
+    },
+    {
+        "filename": "dr.html",
+        "attr": {
+            "class": "center",
+            "data-background": "#FFF"
+        }
+    },
+    {
+        "filename": "developer-relations-team.html",
+        "attr": {
+            "class": "center"
+        }
+    },
+    {
+       "filename": "stateofthecommunity.html",
+       "attr": {
+           "data-background": "resources/stateofthecommunity.jpg",
+           "class": "introslide center"
+       } 
+    },
+    {
+        "filename": "developer-relations-part-2.html",
+        "attr": {
+            "class": "center",
+            "data-background": "#fff",
+            "data-state": "branchtree",
+            "id": "treeslide"
+        }
+    },
+    {
+        "filename": "branchfacts.html",
+        "attr": {
+            "data-background": "resources/experiment.jpg",
+            "class": "center"
+        }
+    },
+    {
+        "filename": "branchstats.html",
+        "attr": {
+            "class": "center"
+        }
+    },
+    {
+        "attr": {
+            "data-background-iframe": "http://localhost:9000/subsites/rd/index.html"
+        }        
+    },
+    {
+        "attr": {
+            "data-background-iframe": "http://localhost:9000/subsites/branch/index.html"
+        }        
+    },
+    {
+        "filename": "butler.html",
+        "attr": {
+            "class": "center"
+        }
+    },
+    {
+        "filename": "apisgood.html",
+        "attr": {
+            "class": "center"
+        }
+    },
+    {
+        "attr": {
+            "data-background-iframe": "http://viz.axisgroup.com/acrossborders/#/origins&asylums"
+        }
+    },
+    {
+        "filename": "crazy.html",
+        "attr": {
+            "class": "center"
+        }
+    },
+    {
+        "filename": "getinvolved.html",
+        "attr": {
+            "data-background": "resources/hypnotoad.jpg",
+            "class": "center"
+        }
+    },
+    {
+        "filename": "search.html",
+        "attr": {
+            "data-state": "search",
+            "style": "top: 0;",
+            "class": "no-center"
+        }
+    }
+]

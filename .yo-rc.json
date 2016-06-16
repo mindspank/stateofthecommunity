@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "The Generic Engine API",
+    "packageVersion": "0.0.0",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
